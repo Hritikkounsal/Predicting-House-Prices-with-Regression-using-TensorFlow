@@ -6,5 +6,6 @@ It's a guided project using tensorflow to predict the prices of house using feil
 4. Number of stores in the locality
 5. The latitude
 6. The longitude 
+
 Then for the model we used keras Sequential Model i.e. which is a linear stack of Layers.
-then we visualize it for trained and untrained model it will follow the straight linear path for trained model so it shows that our predictions are accurate.
+Then we visualize it for trained and untrained model it will follow the straight linear path for trained model so it shows that our predictions are accurate.
